@@ -12,19 +12,27 @@
 
 <h3>Online Catalog</h3>
 
-![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/OnlineCatalog.png)
+![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/Catalog.png)
 <h5>The Online Catalog allows users to explore available books by category. Detailed information is provided for each book, and users can request titles directly through the platform, with options for in-person pickup or home delivery.</h5>
 
 <h2>Key Features</h2>
 <h3>User</h3>
 <ul>
   <li>User registration and login</li>
+  
+  ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/Login.png)
+ ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/SignUp.png)
   <li>Browse and search books by title, author, or category</li>
+  
+   ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/Catalog.png)
   <li>Request available books with two delivery options:
     <ul>
       <li>Pick-up from the library</li>
       <li>Home delivery</li>
     </ul>
+    
+  ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/Cart.png)
+  ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/StripeSession.png)
   </li>
   <li>View order history</li>
   <li>Read book PDF (if available)</li>
@@ -42,9 +50,11 @@
  
   ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/OrdersAdminPanel.png)
   <li>Manage user accounts</li>
+  
+  ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/AdminPanel_Users.png)
 </ul>
 
 
 
 
-![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/StripeSession.png)
+
