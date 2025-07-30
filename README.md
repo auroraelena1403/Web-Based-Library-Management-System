@@ -1,27 +1,34 @@
 <h1>Web-Based Library Management System</h1>
-<h5>This project is a Web-Based Library Management System designed to simplify the process of borrowing, returning, and managing books for both users and administrators.</h5>
+This project is a Web-Based Library Management System designed to simplify the process of borrowing, returning, and managing books for both users and administrators.
 
 <h3>Homepage</h3>
+
 ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/HomePage.png)
-<h5>The homepage provides a welcoming introduction to the library system. Users can quickly navigate to browse books, register, or log in to their accounts. It highlights key features and promotes easy access to services.</h5>
+The homepage provides a welcoming introduction to the library system. Users can quickly navigate to browse books, register, or log in to their accounts. It highlights key features and promotes easy access to services.
 
 <h3>About Us</h3>
 
 ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/AboutUs.png)
-<h5>The About Us section shares the library's mission to make reading more accessible through digital tools. It introduces the purpose of the platform and encourages users to engage with the library community.</h5>
+
+The About Us section shares the library's mission to make reading more accessible through digital tools. It introduces the purpose of the platform and encourages users to engage with the library community.
 
 <h3>Online Catalog</h3>
 
 ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/Catalog.png)
-<h5>The Online Catalog allows users to explore available books by category. Detailed information is provided for each book, and users can request titles directly through the platform, with options for in-person pickup or home delivery.</h5>
+
+The Online Catalog allows users to explore available books by category. Detailed information is provided for each book, and users can request titles directly through the platform, with options for in-person pickup or home delivery.
 
 <h2>Key Features</h2>
 <h3>User</h3>
 <ul>
   <li>User registration and login</li>
+  <p>&nbsp;</p>
   
   ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/Login.png)
  ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/SignUp.png)
+ <p>&nbsp;</p>
+ <p>&nbsp;</p>
+ 
   <li>Browse and search books by title, author, or category</li>
   
    ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/Catalog.png)
@@ -43,6 +50,7 @@
 <ul>
   <li>Admin login</li>
   <li>Manage book catalog (add, update, delete books)</li>
+  <p>&nbsp;</p>
 
   ![alt text](https://github.com/auroraelena1403/Web-Based-Library-Management-System/blob/main/Project%20Pictures/AddBook.png)
   
